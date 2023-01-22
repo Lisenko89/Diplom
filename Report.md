@@ -16,6 +16,7 @@
 
 **Ниже приведен отчет из фреймворка Allure:**
 
+<img width="643" alt="Отчет об ошибках" src="https://user-images.githubusercontent.com/105238601/213911308-33fd1111-298d-46bf-913b-bc885565cf83.png">
 
 
 
